@@ -2,7 +2,7 @@
 files for Data Boot Camp Module 5 Matplotlib Challege
 
 # Challenge Overview 
-In this challenge I analyzed data from a recent animal study on mice with tumors receiving a range of drug regimens. The drug of focus was Capomulin, which was compared to three other regimens over 45 days. My first step was to combine the datasets and then clean the data by looking for any duplicate time points and removing corresponding duplicate data. The number of mice treated by the various regimens were visualized through bar and the gender distribution was illustrated with pie charts. I created a boxplot depicting the final tumor volume of mice treated by Capomulin, Ramicane, Infubinol, and Ceftamin, and used a line chart and regression line to visualize the correlation between mouse weight and average tumor volume. 
+In this challenge I analyzed data from an animal study on mice with tumors receiving a range of drug treatments. The drug of focus was Capomulin, which was compared to three other regimens over 45 days. My first step was to combine the provided datasets and clean the data by removing data from duplicate time points. The number of observations per drug were visualized through bar charts and the gender distribution was illustrated with pie charts. I created a boxplot depicting the final tumor volume of mice treated by Capomulin, Ramicane, Infubinol, and Ceftamin, and used a line chart and regression line to visualize the correlation between mouse weight and average tumor volume. I also created a line plot depicting the affect of Capomulin on the tumor volume of one randomly-selected mouse. 
 
 Please see final analysis and recommendations at the beginning of the Jupyter Notebook for this assignment. 
 
